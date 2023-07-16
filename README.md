@@ -5,13 +5,13 @@ A simple Proxy Scrape in Python
 
 ## 📂 How to use
 ### EXE:
-- Run Proxy-Scrape.exe
+- Run proxy_scrape.exe
 - Write the number of proxies you want to generate
 ### TERMINAL/CMD
-- Open folder where the Proxy-Scrape.py file is located in a terminal
+- Open folder where the proxy_scrape.py file is located in a terminal
 - Run command:
 ```python
-Python Proxy-Scrape.py
+Python proxy_scrape.py
 ```
 
 ### The generated proxies you will find in the proxiex.txt file
