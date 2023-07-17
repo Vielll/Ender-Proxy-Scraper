@@ -1,17 +1,17 @@
-# Proxy Scrape
+# Proxy Scraper
 
 ## 🥜 Description
-A simple Proxy Scrape in Python
+A simple Proxy Scraper in Python
 
 ## 📂 How to use
 ### EXE:
-- Run proxy_scrape.exe
+- Run proxy_scraper.exe
 - Write the number of proxies you want to generate
 ### TERMINAL/CMD
-- Open folder where the proxy_scrape.py file is located in a terminal
+- Open folder where the proxy_scraper.py file is located in a terminal
 - Run command:
 ```python
-Python proxy_scrape.py
+Python proxy_scraper.py
 ```
 
 ### The generated proxies you will find in the proxiex.txt file
